@@ -1,0 +1,169 @@
+{
+    "states": [
+      {
+        "state": "California",
+        "cities": [
+          {
+            "city": "Los Angeles",
+            "dealerships": [
+              {
+                "companyName": "AutoHub LA",
+                "address": "123 Sunset Blvd, Los Angeles, CA",
+                "ownerName": "John Doe",
+                "contactNumber": "+1 310-123-4567"
+              },
+              {
+                "companyName": "Speed Motors",
+                "address": "789 Beverly Dr, Los Angeles, CA",
+                "ownerName": "Sarah Johnson",
+                "contactNumber": "+1 310-345-6789"
+              }
+            ]
+          },
+          {
+            "city": "San Francisco",
+            "dealerships": [
+              {
+                "companyName": "Golden Gate Auto",
+                "address": "789 Fisherman's Wharf, San Francisco, CA",
+                "ownerName": "Linda Park",
+                "contactNumber": "+1 415-234-5678"
+              }
+            ]
+          },
+          {
+            "city": "San Diego",
+            "dealerships": [
+              {
+                "companyName": "SoCal Auto",
+                "address": "654 Harbor Dr, San Diego, CA",
+                "ownerName": "Sophia Wilson",
+                "contactNumber": "+1 619-456-7890"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "state": "Texas",
+        "cities": [
+          {
+            "city": "Houston",
+            "dealerships": [
+              {
+                "companyName": "Lone Star Motors",
+                "address": "456 Westheimer Rd, Houston, TX",
+                "ownerName": "Sophia Brown",
+                "contactNumber": "+1 713-234-5678"
+              }
+            ]
+          },
+          {
+            "city": "Dallas",
+            "dealerships": [
+              {
+                "companyName": "Big D Auto Sales",
+                "address": "555 Elm St, Dallas, TX",
+                "ownerName": "Kevin Adams",
+                "contactNumber": "+1 214-987-6543"
+              },
+              {
+                "companyName": "Metro Auto",
+                "address": "777 Central Pkwy, Dallas, TX",
+                "ownerName": "Alex Carter",
+                "contactNumber": "+1 214-456-7890"
+              }
+            ]
+          },
+          {
+            "city": "Austin",
+            "dealerships": [
+              {
+                "companyName": "Capital City Cars",
+                "address": "888 Congress Ave, Austin, TX",
+                "ownerName": "Nathan Reed",
+                "contactNumber": "+1 512-123-4567"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "state": "Florida",
+        "cities": [
+          {
+            "city": "Miami",
+            "dealerships": [
+              {
+                "companyName": "Sunshine Auto",
+                "address": "100 Ocean Dr, Miami, FL",
+                "ownerName": "Carlos Gomez",
+                "contactNumber": "+1 305-234-5678"
+              }
+            ]
+          },
+          {
+            "city": "Orlando",
+            "dealerships": [
+              {
+                "companyName": "Magic City Motors",
+                "address": "222 Disney Rd, Orlando, FL",
+                "ownerName": "Rebecca White",
+                "contactNumber": "+1 407-345-6789"
+              }
+            ]
+          },
+          {
+            "city": "Tampa",
+            "dealerships": [
+              {
+                "companyName": "Bay Area Auto",
+                "address": "333 Bayshore Blvd, Tampa, FL",
+                "ownerName": "Michael Sanders",
+                "contactNumber": "+1 813-567-8901"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "state": "New York",
+        "cities": [
+          {
+            "city": "New York City",
+            "dealerships": [
+              {
+                "companyName": "Empire Auto",
+                "address": "500 Broadway, New York, NY",
+                "ownerName": "Anthony Martinez",
+                "contactNumber": "+1 212-234-5678"
+              }
+            ]
+          },
+          {
+            "city": "Buffalo",
+            "dealerships": [
+              {
+                "companyName": "Lake Erie Cars",
+                "address": "111 Niagara St, Buffalo, NY",
+                "ownerName": "Olivia Brown",
+                "contactNumber": "+1 716-345-6789"
+              }
+            ]
+          },
+          {
+            "city": "Rochester",
+            "dealerships": [
+              {
+                "companyName": "Upstate Motors",
+                "address": "222 Main St, Rochester, NY",
+                "ownerName": "David Wilson",
+                "contactNumber": "+1 585-456-7890"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
